@@ -1,8 +1,7 @@
-keras
-tensorflow
-scikit-image
 flask
 panda
 gunicorn
 xgboost
-
+keras
+tensorflow
+scikit-image
